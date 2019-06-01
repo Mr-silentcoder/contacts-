@@ -1,0 +1,14 @@
+**********************************
+* contact + >
+* C#
+* justin coder (chandhu)
+***********************>
+
+--------------------------->
+1) create a database ( Name - contacts )
+2) user = root, password = , 
+3) upload database file (database/contacts.sql)
+
+Username = admin
+Password = admin
+---------------------------------------------------->

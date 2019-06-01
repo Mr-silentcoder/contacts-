@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\hp\source\repos\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\hp\source\repos\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\hp\source\repos\Contacts\Contacts\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.AddNewForm.resources
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.EditForm.resources
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.SplahScreen.resources
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.LoginForm.resources
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.MainForm.resources
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.CopyComplete
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\hp\source\repos\Contacts\Contacts\obj\Debug\Contacts.pdb
